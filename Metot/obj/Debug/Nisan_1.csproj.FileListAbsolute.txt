@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Nisan_1\Nisan_1\bin\Debug\Nisan_1.exe.config
+C:\Users\Admin\source\repos\Nisan_1\Nisan_1\bin\Debug\Nisan_1.exe
+C:\Users\Admin\source\repos\Nisan_1\Nisan_1\bin\Debug\Nisan_1.pdb
+C:\Users\Admin\source\repos\Nisan_1\Nisan_1\obj\Debug\Nisan_1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Nisan_1\Nisan_1\obj\Debug\Nisan_1.Properties.Resources.resources
+C:\Users\Admin\source\repos\Nisan_1\Nisan_1\obj\Debug\Nisan_1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Nisan_1\Nisan_1\obj\Debug\Nisan_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Nisan_1\Nisan_1\obj\Debug\Nisan_1.exe
+C:\Users\Admin\source\repos\Nisan_1\Nisan_1\obj\Debug\Nisan_1.pdb
+C:\Users\Admin\source\repos\Nisan_1\Nisan_1\obj\Debug\Nisan_1.Form1.resources
